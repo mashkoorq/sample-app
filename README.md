@@ -7,5 +7,5 @@ Sample NodeJS code for the hands-on CI/CD lab of the Deployment section.
 remote branch credentials are stored securly
 
 
-
+#  testing with github authentication placed ssh public key on git hub and used ssh -T git@github.com to access the account
 Adding github to AWS
